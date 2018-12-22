@@ -1,0 +1,7 @@
+D:\Gaga\QA\Zavrsni Ispit - C#\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+D:\Gaga\QA\Zavrsni Ispit - C#\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+D:\Gaga\QA\Zavrsni Ispit - C#\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+D:\Gaga\QA\Zavrsni Ispit - C#\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csprojAssemblyReference.cache
+D:\Gaga\QA\Zavrsni Ispit - C#\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+D:\Gaga\QA\Zavrsni Ispit - C#\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+D:\Gaga\QA\Zavrsni Ispit - C#\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
